@@ -285,7 +285,7 @@ def most_similar_pairs(
     return pairs[:top_k]
 
 if __name__ == "__main__":
-    MATRIX_PATH = "sub_matrix"
+    MATRIX_PATH = "data/sub_matrix"
 
     if os.path.exists(f"{MATRIX_PATH}.npy"):
         print("Loading existing matrix …")
