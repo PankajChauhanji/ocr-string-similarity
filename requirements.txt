@@ -1,4 +1,11 @@
-ImageHash==4.3.1
-numpy==1.23.4
-Pillow==9.2.0
-scipy      1.9.2
+# Old packages
+
+# ImageHash==4.3.1
+# numpy==1.23.4
+# Pillow==9.2.0
+# scipy      1.9.2
+
+# Current Packages 
+scikit-image
+numpy
+Pillow
